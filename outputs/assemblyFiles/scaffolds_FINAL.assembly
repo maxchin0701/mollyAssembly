@@ -1,0 +1,320 @@
+>scaffold_1 1 62026083
+>scaffold_2 2 48648401
+>scaffold_3 3 36260119
+>scaffold_4 4 35133774
+>scaffold_5 5 34537698
+>scaffold_6 6 34250183
+>scaffold_7 7 34239743
+>scaffold_8 8 33345654
+>scaffold_9 9 33247658
+>scaffold_10 10 33106478
+>scaffold_11 11 32827254
+>scaffold_12 12 31627077
+>scaffold_13 13 30829772
+>scaffold_14 14 30724437
+>scaffold_15 15 29272696
+>scaffold_16 16 29167980
+>scaffold_17 17 27064659
+>scaffold_18 18 26314050
+>scaffold_19 19 26212322
+>scaffold_20 20 25198172
+>scaffold_21 21 24765834
+>scaffold_22 22 20518140
+>scaffold_23 23 6646206
+>scaffold_24 24 2008969
+>scaffold_25 25 1980915
+>scaffold_26 26 1683184
+>scaffold_27 27 1462317
+>scaffold_28 28 1101299
+>scaffold_29 29 1073432
+>scaffold_30 30 1014395
+>scaffold_31 31 956682
+>scaffold_32 32 919793
+>scaffold_33 33 805977
+>scaffold_34 34 685401
+>scaffold_35 35 655397
+>scaffold_36 36 483193
+>scaffold_37 37 465639
+>scaffold_38 38 360251
+>scaffold_39 39 321553
+>scaffold_40 40 250909
+>scaffold_41 41 196367
+>scaffold_42 42 149440
+>scaffold_43 43 121511
+>scaffold_44 44 111580
+>scaffold_45 45 105058
+>scaffold_46 46 79496
+>scaffold_47 47 71662
+>scaffold_48 48 67948
+>scaffold_49 49 66938
+>scaffold_50 50 65318
+>scaffold_51 51 61345
+>scaffold_52 52 58457
+>scaffold_53 53 54703
+>scaffold_54 54 50343
+>scaffold_55 55 49532
+>scaffold_56 56 48436
+>scaffold_57 57 47514
+>scaffold_58 58 46783
+>scaffold_59 59 46730
+>scaffold_60 60 45774
+>scaffold_61 61 45724
+>scaffold_62 62 44809
+>scaffold_63 63 44010
+>scaffold_64 64 42531
+>scaffold_65 65 42478
+>scaffold_66 66 42277
+>scaffold_67 67 40374
+>scaffold_68 68 40364
+>scaffold_69 69 40206
+>scaffold_70 70 39174
+>scaffold_71 71 38989
+>scaffold_72 72 38220
+>scaffold_73 73 38192
+>scaffold_74 74 38127
+>scaffold_75 75 37087
+>scaffold_76 76 35258
+>scaffold_77 77 35228
+>scaffold_78 78 35085
+>scaffold_79 79 34767
+>scaffold_80 80 34376
+>scaffold_81 81 34047
+>scaffold_82 82 33177
+>scaffold_83 83 32089
+>scaffold_84 84 30989
+>scaffold_85 85 30954
+>scaffold_86 86 30710
+>scaffold_87 87 30235
+>scaffold_88 88 30048
+>scaffold_89 89 29827
+>scaffold_90 90 29697
+>scaffold_91 91 29590
+>scaffold_92 92 29301
+>scaffold_93 93 29102
+>scaffold_94 94 28919
+>scaffold_95 95 28805
+>scaffold_96 96 28232
+>scaffold_97 97 28148
+>scaffold_98 98 27945
+>scaffold_99 99 27762
+>scaffold_100 100 27671
+>scaffold_101 101 27508
+>scaffold_102 102 27495
+>scaffold_103 103 27238
+>scaffold_104 104 26534
+>scaffold_105 105 26388
+>scaffold_106 106 26367
+>scaffold_107 107 26309
+>scaffold_108 108 26180
+>scaffold_109 109 25920
+>scaffold_110 110 25868
+>scaffold_111 111 25850
+>scaffold_112 112 25777
+>scaffold_113 113 25686
+>scaffold_114 114 25679
+>scaffold_115 115 25619
+>scaffold_116 116 25506
+>scaffold_117 117 25401
+>scaffold_118 118 25236
+>scaffold_119 119 24923
+>scaffold_120 120 24831
+>scaffold_121 121 24600
+>scaffold_122 122 24203
+>scaffold_123 123 23882
+>scaffold_124 124 23664
+>scaffold_125 125 23209
+>scaffold_126 126 23043
+>scaffold_127 127 22771
+>scaffold_128 128 22695
+>scaffold_129 129 22642
+>scaffold_130 130 22352
+>scaffold_131 131 22336
+>scaffold_132 132 22185
+>scaffold_133 133 22036
+>scaffold_134 134 22019
+>scaffold_135 135 21960
+>scaffold_136 136 21921
+>scaffold_137 137 21638
+>scaffold_138 138 20934
+>scaffold_139 139 20912
+>scaffold_140 140 20574
+>scaffold_141 141 20348
+>scaffold_142 142 20181
+>scaffold_143 143 19750
+>scaffold_144 144 19666
+>scaffold_145 145 19496
+>scaffold_146 146 19340
+>scaffold_147 147 19107
+>scaffold_148 148 18234
+>scaffold_149 149 17578
+>scaffold_150 150 16990
+>scaffold_151 151 16449
+>scaffold_152 152 16294
+>scaffold_153 153 16064
+>scaffold_154 154 15625
+>scaffold_155 155 15299
+>scaffold_156 156 13219
+>scaffold_157 157 12326
+>scaffold_158 158 10539
+>scaffold_159 159 10396
+>scaffold_160 160 10181
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
